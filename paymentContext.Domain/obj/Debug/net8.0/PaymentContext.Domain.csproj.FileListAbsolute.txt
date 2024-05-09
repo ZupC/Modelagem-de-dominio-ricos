@@ -1,0 +1,15 @@
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Domain.deps.json
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Domain.dll
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Domain.pdb
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Shared.dll
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\bin\Debug\net8.0\PaymentContext.Shared.pdb
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.csproj.AssemblyReference.cache
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.AssemblyInfoInputs.cache
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.AssemblyInfo.cs
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.csproj.CoreCompileInputs.cache
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.dll
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\refint\PaymentContext.Domain.dll
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\PaymentContext.Domain.pdb
+D:\cursos\Dominios Ricos Balta\PaymentContext\PaymentContext.Domain\obj\Debug\net8.0\ref\PaymentContext.Domain.dll
+d:\cursos\Dominios Ricos Balta\PaymentContext\paymentContext.Domain\obj\Debug\net8.0\paymentC.96205997.Up2Date
